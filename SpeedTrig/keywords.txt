@@ -1,0 +1,21 @@
+#==============================================================
+# SpeedTrig Library
+#==============================================================
+# Original Code (C) 2012-2013 Oscar Liang
+# Ported September 2014 with permission from original author
+# Licensed under the MIT licence.
+# 
+# This is a library to quickly do common trigonometry functions
+# on Arduinos/other microprocessors.
+# 
+# This file is the file for the syntax highlighting for the
+# Arduino IDE.
+#==============================================================
+
+SpeedTrig	KEYWORD1
+radToMicro KEYWORD2
+floatToInt KEYWORD2
+sin KEYWORD2
+cos KEYWORD2
+acos KEYWORD2
+atan2 KEYWORD2
