@@ -13,9 +13,9 @@
 #==============================================================
 
 SpeedTrig	KEYWORD1
-radToMicro KEYWORD2
-floatToInt KEYWORD2
-sin KEYWORD2
-cos KEYWORD2
-acos KEYWORD2
-atan2 KEYWORD2
+radToMicro	KEYWORD2
+floatToInt	KEYWORD2
+sin	KEYWORD2
+cos	KEYWORD2
+acos	KEYWORD2
+atan2	KEYWORD2
